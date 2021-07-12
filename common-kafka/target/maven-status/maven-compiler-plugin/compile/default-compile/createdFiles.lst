@@ -1,0 +1,6 @@
+com\gomides\ecommerce\KafkaService.class
+com\gomides\ecommerce\GsonDeserializer.class
+com\gomides\ecommerce\Email.class
+com\gomides\ecommerce\ConsumerFunction.class
+com\gomides\ecommerce\GsonSerializer.class
+com\gomides\ecommerce\KafkaDispatcher.class
